@@ -5,9 +5,9 @@
 - 📫 How to reach me, my mobile number is +91 9822735722
 - 😄 Pronouns: He Him His 
 - ⚡ Fun fact: A Student For Lifetime 😊
-- 🕸️ https://sites.google.com/view/drnadharmadhikariclinic/clinic
+- 🕸️ https://drnadharmadhikariclinic.com
 <!---
 DrNADharmadhikari/DrNADharmadhikari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://drnadharmadhikari.com
+https://drnadharmadhikariclinic.com
