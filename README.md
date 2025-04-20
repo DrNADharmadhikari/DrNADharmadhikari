@@ -7,5 +7,10 @@
 - ⚡ Fun fact: A Student For Lifetime 😊
 - 🕸️ https://drnadharmadhikariclinic.com
 <!---
+#UltimateHolisticHealth 
+#WorldRecordsWriting
+#Sweetgodgift 
+#DrNADharmadhikari 
+#DrNADharmadhikariClinic
 DrNADharmadhikari/DrNADharmadhikari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
