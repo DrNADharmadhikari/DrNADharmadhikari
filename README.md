@@ -37,7 +37,9 @@
 - 🔗 [Google Site Blog](https://sites.google.com/view/drnadharmadhikariclinic/health-fitness-blogs)
 - 🔗 [Gravatar](https://en.gravatar.com/neeleshdharmadhikari)
 - 🔗 [GitHub](https://github.com/DrNADharmadhikari)
-
+- 🔗 [https://x.com/DrNeeleshD)
+- 🔗 [https://www.linkedin.com/in/drneeleshdharmadhikari/)
+- 🔗 [https://sites.google.com/view/drnadharmadhikariclinic/clinic)
 ---
 
 ## 🌐 Multilingual Greetings
