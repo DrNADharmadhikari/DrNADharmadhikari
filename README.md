@@ -127,7 +127,7 @@ Je suis @DrNADharmadhikari, médecin généraliste à Nagpur, Inde. Diffusons en
 ## 🏆 Achievements
 
 - 🧘‍♂️ World Record Holder in **Meditation (21 Dec)** & **Yoga (21 June)**
-- ✍️ Megablogger on Holistic Health – *Over 126,810+ words*
+- ✍️ Megablogger on Holistic Health – *Over 130,725+ words*
 - 📣 Awareness on **Tuberculosis**, **Leprosy**, **Lifestyle Disorders**, and more
 - 🌐 Open-source contributor to health & wellness education
 
