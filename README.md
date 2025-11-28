@@ -11,6 +11,7 @@
 - 👋 Hi, I’m **@DrNADharmadhikari**
 - 🌱 **General Practitioner** | BAMS, DNYS, DPharm | Nagpur, Maharashtra, India
 - 🏥 Founder of [Dr. N. A. Dharmadhikari Clinic](https://drnadharmadhikariclinic.com) – *Where Healing Meets Holistic Health*
+- 🌐 Founder of [WellnessSkyline](https://wellnessskyline.com) – *Global Mission of Wellness Skyline is to provide holistic health of body, mind, society, and spiritual wellness transcending region, boundaries, and gender.*
 - 📘 **Author & Blogger** on Physical, Mental, Social & Spiritual Health, Wellbeing, and Wellness
 - ✍️ Writing a **world-record-worthy Megablog** on #UltimateHolisticHealth – **138,786+ words**
 - 💡 Tech-enthusiast exploring **Website Creation**, **SEO**, **WordPress**, and **Digital Empowerment**
@@ -27,6 +28,7 @@
 - 📱 **+91 9822735722**
 - 📧 **neeleshdharmadhikari@gmail.com**
 - 🌐 [drnadharmadhikariclinic.com](https://drnadharmadhikariclinic.com)
+- 🌐 [WellnessSkyline](https://wellnessskyline.com)
 - 🔗 [Facebook](https://www.facebook.com/Dr.Dharmadhikari)
 - 🔗 [Instagram](https://www.instagram.com/dr.dharmadhikari/)
 - 🔗 [Threads](https://www.threads.net/@dr.dharmadhikari)
