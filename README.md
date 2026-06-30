@@ -2,151 +2,265 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=DrNADharmadhikari)
 
-# 👨‍⚕️ Dr. Neelesh Aniruddha Dharmadhikari
+# 🌍 Dr. Neelesh Aniruddha Dharmadhikari
 
-## Welcome to my GitHub profile!
-
----
-
-### 🌟 About Me
-
-- 👋 Hi, I’m **@DrNADharmadhikari**
-- 🌱 **General Practitioner** | BAMS, DNYS, DPharm | Nagpur, Maharashtra, India
-- 🏥 Founder of [Dr. N. A. Dharmadhikari Clinic](https://drnadharmadhikariclinic.com) – *Where Healing Meets Holistic Health*
-- 🌐 Founder of [WellnessSkyline](https://wellnessskyline.com) – *Global Mission of Wellness Skyline is to provide holistic health of body, mind, society, and spiritual wellness transcending region, boundaries, and gender.*
-- 📘 **Author & Blogger** on Physical, Mental, Social & Spiritual Health, Wellbeing, and Wellness
-- ✍️ Writing a **world-record-worthy Megablog** on #UltimateHolisticHealth – **138,786+ words**
-- 💡 Tech-enthusiast exploring **Website Creation**, **SEO**, **WordPress**, and **Digital Empowerment**
-- 📚 Working on **short eBooks** to simplify medical and holistic health knowledge for all
-- 🌐 Languages: **English**, **Hindi**, **Marathi**, **Sanskrit**
-- 🙏 Strong believer in **universal oneness**, **mind-body connection**, and **lifelong learning**
-- ⚡ Fun Fact: *A “Student for Lifetime” blending medicine, mindfulness & technology*
-- 💞️ Looking to collaborate on: Health Education | eBooks | Medical Campaigns
+### Founder • Global Wellness Skyline (GWS) Ecosystem
 
 ---
 
-## 🌍 Let's Connect
+## Welcome to my GitHub Profile!
 
-- 📱 **+91 9822735722**
-- 📧 **neeleshdharmadhikari@gmail.com**
-- 🌐 [drnadharmadhikariclinic.com](https://drnadharmadhikariclinic.com)
-- 🌐 [WellnessSkyline](https://wellnessskyline.com)
-- 🔗 [Facebook](https://www.facebook.com/Dr.Dharmadhikari)
-- 🔗 [Instagram](https://www.instagram.com/dr.dharmadhikari/)
-- 🔗 [Threads](https://www.threads.net/@dr.dharmadhikari)
-- 🔗 [Pinterest](https://www.pinterest.com/drnadharmadhikari/)
-- 🔗 [Telegram](https://t.me/DrNADharmadhikari)
-- 🔗 [YouTube](https://www.youtube.com/@NeeleshDharmadhikari)
-- 🔗 [Twitter/X](https://x.com/DrNeeleshD)
-- 🔗 ORCID: [0009-0002-2935-1042](https://orcid.org/0009-0002-2935-1042) – Verified Open Research Contributor
+This repository serves as the public gateway to my educational, research, healthcare, wellness, and digital knowledge initiatives.
 
 ---
 
-## 🔖 Featured Hashtags
+# 🌟 About Me
 
-`#UltimateHolisticHealth`  
-`#NobleThoughtsForever`  
-`#WellnessSkyline`  
-`#GlobalWellnessSkyline`  
-`#PearlsOfWisdomGalaxy`  
-`#OpenResearchContributor`  
-`#DrNADharmadhikari`  
-`#DrNADharmadhikariClinic`  
-`#Dharmadhikari`  
-`#DrDharmadhikari`  
-`#WorldRecordsWriting`
-
----
-
-> “**Your Health Blueprint, Precision Care, Organized Approach, Proactive Solutions Since The Beginning – Where science meets soul, and care begins with compassion.**”
+- 👋 Hi, I'm **@DrNADharmadhikari**
+- 👨‍⚕️ General Physician & Surgeon
+- 📍 Nagpur, Maharashtra, India
+- 🌍 Founder of the **Global Wellness Skyline (GWS) Ecosystem** — Building an educational ecosystem where Artificial Intelligence and Human Wisdom work together.
+- 🌿 Founder of **Wellness Skyline** — A global educational platform promoting wellness, wellbeing, scientific wellness, and lifelong learning.
+- 🏥 Founder of **Dr N A Dharmadhikari Clinic** — Evidence-based healthcare, patient education, accessibility, and holistic health resources.
+- 📚 Creator of **Responsible Digital Knowledge**, the foundational educational methodology of the GWS Ecosystem.
+- ✍️ Author of the **Empowering Health Megablog** (138,786+ words) simplifying medicine, holistic health, wellbeing, wellness, and lifelong learning.
+- 💡 Researching educational methodologies, knowledge architecture, accessibility, Artificial Intelligence, digital knowledge, and lifelong learning.
+- 🌐 Languages: **English • Hindi • Marathi • Sanskrit**
+- 🙏 Believer in scientific thinking, responsible digital knowledge, universal wellbeing, and lifelong learning.
+- 🤝 Open to collaborations in healthcare, wellness education, responsible AI, accessibility, educational methodology, and global knowledge initiatives.
 
 ---
 
-## 🏆 Achievements
+# 🌐 Global Wellness Skyline (GWS) Ecosystem
 
-- 🧘‍♂️ World Record Holder in **Meditation (21 Dec)** & **Yoga (21 June)**
-- ✍️ Megablogger on Holistic Health – *Over 138,786+ words*
-- 📣 Awareness on **Tuberculosis**, **Leprosy**, **Lifestyle Disorders**, and more
-- 🌐 Open-source contributor to health & wellness education
+The **Global Wellness Skyline (GWS) Ecosystem** is an interconnected educational ecosystem dedicated to integrating:
+
+- 🏥 Healthcare
+- 🌿 Wellness
+- 📚 Responsible Digital Knowledge
+- 🤖 Artificial Intelligence
+- 🧠 Human Wisdom
+- ♿ Accessibility
+- 🔬 Research
+- 🌎 Lifelong Learning
+
+### Core Platforms
+
+- 🌍 https://gwsecosystem.com
+- 🌿 https://wellnessskyline.com
+- 🏥 https://drnadharmadhikariclinic.com
 
 ---
 
-## 🌐 Multilingual Greetings
+# 🔬 Research Identity
+
+**ORCID**
+
+https://orcid.org/0009-0002-2935-1042
+
+Documenting original educational methodologies, research frameworks, scholarly creative works, digital knowledge architecture, and wellness education.
+
+---
+
+# 🌍 Let's Connect
+
+- 🌍 https://gwsecosystem.com
+- 🌿 https://wellnessskyline.com
+- 🏥 https://drnadharmadhikariclinic.com
+
+- 📧 neeleshdharmadhikari@gmail.com
+
+- 📱 +91 9822735722
+
+### Professional Profiles
+
+- 🔬 ORCID — https://orcid.org/0009-0002-2935-1042
+- 💻 GitHub — https://github.com/DrNADharmadhikari
+- ▶️ YouTube — https://www.youtube.com/@NeeleshDharmadhikari
+- 💼 LinkedIn — https://linkedin.com/in/drneeleshdharmadhikari
+- 📘 Facebook — https://www.facebook.com/Dr.Dharmadhikari
+- 📸 Instagram — https://www.instagram.com/dr.dharmadhikari/
+- 📌 Pinterest — https://www.pinterest.com/drnadharmadhikari/
+- ✈️ Telegram — https://t.me/DrNADharmadhikari
+- ✖️ X (Twitter) — https://x.com/DrNeeleshD
+
+---
+
+# 🔖 Educational Series
+
+## Global Wellness Skyline
+
+- 📘 Empowering Health Megablog
+- 🌿 Scientific Wellness Insights
+- 🌎 Science of Global Wellness
+- 💎 Pearls of Wisdom Galaxy
+- ✨ Noble Thoughts Forever
+- 🌅 Wellness Daily Thoughts
+- 🎯 Wisdom Shorts Insights
+- 📖 Wellness Wisdom Weekly Edition
+
+## Global Wellness Skyline (GWS) Ecosystem
+
+- 📚 Responsible Digital Knowledge
+- 🏛️ GWS Ecosystem Methodology Series
+- 🧩 Educational Frameworks
+- 🧠 Knowledge Architecture
+- 🌐 Responsible Digital Knowledge Ecosystem
+
+---
+
+# 🏆 Current Initiatives
+
+- 🌍 Founder — Global Wellness Skyline (GWS) Ecosystem
+- 📚 Creator — Responsible Digital Knowledge Methodology
+- ✍️ Author — Empowering Health Megablog (138,786+ words)
+- 🌿 Founder — Wellness Skyline
+- 🏥 Founder — Dr N A Dharmadhikari Clinic
+- 💎 Creator — Pearls of Wisdom Galaxy
+- ✨ Creator — Noble Thoughts Forever
+- 🔬 Developing educational methodologies integrating healthcare, accessibility, Artificial Intelligence, human wisdom, and lifelong learning.
+
+---
+
+# 🔖 Featured Topics
+
+`#GWSEcosystem`
+
+`#ResponsibleDigitalKnowledge`
+
+`#GlobalWellnessSkyline`
+
+`#WellnessSkyline`
+
+`#UltimateHolisticHealth`
+
+`#EmpoweringHealth`
+
+`#ScientificWellnessInsights`
+
+`#NobleThoughtsForever`
+
+`#PearlsOfWisdomGalaxy`
+
+`#ArtificialIntelligence`
+
+`#HumanWisdom`
+
+`#KnowledgeArchitecture`
+
+`#OpenResearchContributor`
+
+---
+
+> **"Building an Educational Ecosystem Where Artificial Intelligence and Human Wisdom Work Together."**
+
+---
+
+# 🌐 Multilingual Greetings
 
 <details>
 <summary>🇬🇧 English</summary>
 
-**Welcome to my GitHub Profile!**  
-I'm @DrNADharmadhikari, General Practitioner from Nagpur, India. Let's spread health and healing across the globe!  
+**Welcome to my GitHub Profile!**
+
+Together, let's build responsible digital knowledge for humanity.
+
 </details>
 
 <details>
-<summary>🇨🇳 中文 (Simplified Chinese)</summary>
+<summary>🇨🇳 中文</summary>
 
-**欢迎来到我的 GitHub 个人主页！**  
-我是来自印度马哈拉施特拉邦那格浦尔的全科医生 @DrNADharmadhikari。我们一起传播健康与疗愈！
+欢迎来到我的 GitHub！
+
+让我们共同建设面向全人类的负责任数字知识生态系统。
+
 </details>
 
 <details>
-<summary>🇯🇵 日本語 (Japanese)</summary>
+<summary>🇯🇵 日本語</summary>
 
-**私の GitHub プロフィールへようこそ！**  
-インドのナグプール出身の総合診療医 @DrNADharmadhikari です。共に健康と癒しを広めましょう！
+GitHubプロフィールへようこそ。
+
+人類のための責任あるデジタル知識を共に築きましょう。
+
 </details>
 
 <details>
-<summary>🇰🇷 한국어 (Korean)</summary>
+<summary>🇰🇷 한국어</summary>
 
-**제 GitHub 프로필에 오신 것을 환영합니다!**  
-저는 인도 나그푸르의 일반의사 @DrNADharmadhikari 입니다. 건강과 치유를 세계에 전합시다!
+제 GitHub 프로필에 오신 것을 환영합니다.
+
+인류를 위한 책임 있는 디지털 지식을 함께 만들어 갑시다.
+
 </details>
 
 <details>
-<summary>🇸🇦 العربية (Arabic)</summary>
+<summary>🇸🇦 العربية</summary>
 
-**مرحبًا بكم في ملفي الشخصي على GitHub!**  
-أنا @DrNADharmadhikari، طبيب عام من ناجبور، الهند. دعونا ننشر الصحة والشفاء للعالم!
+مرحبًا بكم في ملفي الشخصي على GitHub.
+
+لنبنِ معًا معرفة رقمية مسؤولة لخدمة الإنسانية.
+
 </details>
 
 <details>
-<summary>🇪🇸 Español (Spanish)</summary>
+<summary>🇪🇸 Español</summary>
 
-**¡Bienvenido a mi perfil de GitHub!**  
-Soy @DrNADharmadhikari, médico general de Nagpur, India. ¡Compartamos salud y sanación al mundo!
+¡Bienvenido a mi perfil de GitHub!
+
+Construyamos juntos conocimiento digital responsable para toda la humanidad.
+
 </details>
 
 <details>
-<summary>🇫🇷 Français (French)</summary>
+<summary>🇫🇷 Français</summary>
 
-**Bienvenue sur mon profil GitHub !**  
-Je suis @DrNADharmadhikari, médecin généraliste à Nagpur, Inde. Diffusons ensemble la santé et le bien-être.
+Bienvenue sur mon profil GitHub !
+
+Construisons ensemble un écosystème de connaissance numérique responsable.
+
 </details>
 
 <details>
-<summary>🇮🇳 हिंदी (Hindi)</summary>
+<summary>🇮🇳 हिंदी</summary>
 
-**मेरे GitHub प्रोफ़ाइल में आपका स्वागत है!**  
-मैं @DrNADharmadhikari, नागपुर, भारत का एक सामान्य चिकित्सक हूँ। आइए हम स्वास्थ्य और उपचार को फैलाएं।
+**मेरे GitHub प्रोफ़ाइल में आपका स्वागत है।**
+
+आइए मिलकर मानवता के लिए उत्तरदायी डिजिटल ज्ञान का निर्माण करें।
+
 </details>
 
 <details>
-<summary>🇮🇳 संस्कृतम् (Sanskrit)</summary>
+<summary>🇮🇳 संस्कृतम्</summary>
 
-**मम GitHub प्रोफाइल् मध्ये स्वागतम्!**  
-अहं @DrNADharmadhikari, नागपुरे स्थितः सामान्यचिकित्सकः अस्मि। आरोग्यं च आरोग्यदायिनीं च वयं प्रचारयाम।
+**मम GitHub प्रोफाइल् मध्ये स्वागतम्।**
+
+मानवकल्याणाय उत्तरदायि डिजिटलज्ञानस्य निर्माणे सहकार्यं कुर्मः।
+
 </details>
 
 <details>
-<summary>🇮🇳 मराठी (Marathi)</summary>
+<summary>🇮🇳 मराठी</summary>
 
-**माझ्या GitHub प्रोफाइलमध्ये आपले स्वागत आहे!**  
-मी @DrNADharmadhikari, नागपूर येथील सामान्य चिकित्सक आहे. चला, आरोग्याचा प्रसार करूया!
+**माझ्या GitHub प्रोफाइलमध्ये आपले स्वागत आहे.**
+
+चला, मानवतेसाठी उत्तरदायी डिजिटल ज्ञान एकत्र निर्माण करूया.
+
 </details>
 
 <details>
-<summary>🇷🇺 Русский (Russian)</summary>
+<summary>🇷🇺 Русский</summary>
 
-**Добро пожаловать в мой профиль на GitHub!**  
-Я @DrNADharmadhikari, врач общей практики из Нагпура, Индия.  
-> **Этот проект создан для здоровья и благополучия людей во всем мире.**
+Добро пожаловать в мой профиль GitHub!
+
+Давайте вместе создавать ответственное цифровое знание для человечества.
+
 </details>
+
+---
+
+## ⭐ Thank you for visiting!
+
+**Global Wellness Skyline (GWS) Ecosystem**
+
+*Connecting Healthcare • Wellness • Education • Responsible Digital Knowledge • Artificial Intelligence • Human Wisdom • Accessibility • Lifelong Learning*
